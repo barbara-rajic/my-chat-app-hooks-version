@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-chat-app-hooks-version/static/css/main.468af3b1.css",
+    "main.js": "/my-chat-app-hooks-version/static/js/main.45c11990.js",
+    "index.html": "/my-chat-app-hooks-version/index.html",
+    "main.468af3b1.css.map": "/my-chat-app-hooks-version/static/css/main.468af3b1.css.map",
+    "main.45c11990.js.map": "/my-chat-app-hooks-version/static/js/main.45c11990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.468af3b1.css",
+    "static/js/main.45c11990.js"
+  ]
+}
